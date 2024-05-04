@@ -91,7 +91,7 @@ class _NinjaCardState extends State<NinjaCard> {
             const SizedBox(
               height: 10.0,
             ),
-            Text(
+            Text
               "$ninjaLevel",
               style: TextStyle(
                 color: Colors.amberAccent[200],
